@@ -40,5 +40,6 @@ public class Sport {
             new Sport("Swimming", "is", R.drawable.swimming),
             new Sport("Tennis", "is", R.drawable.tennis),
             new Sport("Voleyball", "is", R.drawable.volleyball)
+
     };
 }
